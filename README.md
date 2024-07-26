@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Prakhar Dwivedi</h1>
-
+<h3 align="center">Final-year IT student with a passion for coding and innovative ideas actively pursuing opportunities in MERN full-stack development, software development, and data-related jobs. Demonstrated strong problem-solving skills and decision-making abilities.</h3>
 
 <!--
 **P-dwivedi/P-dwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
