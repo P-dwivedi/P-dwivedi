@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Personal Projects.**
 
-- 🌱 I’m currently learning **NextJs and Other Web Frameworks | Data Science | Data Structures & Algorithms | Figma.**
+- 🌱 I’m currently learning **NextJs and Other Web Frameworks | Data Structures & Algorithms | Figma.**
  
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 
