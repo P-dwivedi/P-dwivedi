@@ -11,7 +11,7 @@
  
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 
-- 🤔 I’m looking for help with **Data Analytics.**
+<!-- - 🤔 I’m looking for help with **Data Analytics.** -->
 
 - 📫 How to reach me: **prakhardwivedi31@gmail.com**
 
